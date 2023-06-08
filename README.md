@@ -1,26 +1,3 @@
-<header>
-
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
-
-# Introduction to GitHub
-
-_Get started using GitHub in less than an hour._
-
-</header>
-
-<!--
-  <<< Author notes: Step 3 >>>
-  Just a historic note: the previous version of this step forced the learner
-  to write a pull request description,
-  checked that `main` was the receiving branch,
-  and that the file was named correctly.
--->
-
 ## Step 3: Open a pull request
 
 _Nice work making that commit! :sparkles:_
@@ -56,6 +33,7 @@ To create a pull request automatically, click **Compare & pull request**, and th
    **Note**: You may see evidence of GitHub Actions running on the tab with the pull request opened! The image below shows a line you might see on your pull request after the Action finishes running.
 
    <img alt="screenshot of an example of an actions line" src="/images/Actions-to-step-4.png"/>
+
 
 <footer>
 
